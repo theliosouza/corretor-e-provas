@@ -1,0 +1,9 @@
+__pycache__/
+.venv/
+entradas/
+saida/
+*.csv
+!nomes.exemplo.csv
+*.zip
+*.xlsx
+.env
